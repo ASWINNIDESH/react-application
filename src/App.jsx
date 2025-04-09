@@ -5,7 +5,7 @@ import './App.css';
 import ProfileCard from './ProfileCard';
 import GridView from './GridView';
 import Todo from './Todo';
-import Navbar from './Navbar';
+import Navbar from './NavBar';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Provider } from 'react-redux';
 import store from './store';
