@@ -12,11 +12,11 @@ const Navbar = () => {
         padding: "10px",
       }}
     >
-      {/* <div>
+      <div>
         <Link to="/" style={{ color: "white", textDecoration: "none" }}>
           Home
         </Link>
-      </div> */}
+      </div>
       <div>
         <Link to="/todo" style={{ color: "white", textDecoration: "none" }}>
           Todo
