@@ -16,7 +16,7 @@ const ProfileCard = ({profile}) => {
             height:"400px",
             paddingTop:"10%"
           }}>
-        <div style={{ border: "1px solid black", padding: "100px", maxWidth: "300px",backgroundColor:"gray"}}>
+        <div style={{ border: "1px solid black", padding: "100px", maxWidth: "300px",backgroundColor:"lightblue", display: "flex", flexDirection: "column", alignItems: "center", borderRadius: "10px" }}>
             <img
                 style={{
                     border: "3px solid black",
